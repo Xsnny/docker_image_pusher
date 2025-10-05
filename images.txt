@@ -3,6 +3,7 @@ nginx
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 docker.io/linuxserver/qbittorrent:arm64v8-4.6.5
+swr.cn-north-4.myhuaweicloud.com/ddn-k8s/docker.io/linuxserver/qbittorrent:arm64v8-4.6.5-linuxarm64
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
