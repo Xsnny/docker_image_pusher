@@ -6,6 +6,7 @@ docker.io/linuxserver/qbittorrent:arm64v8-4.6.5
 swr.cn-north-4.myhuaweicloud.com/ddn-k8s/docker.io/linuxserver/qbittorrent:arm64v8-4.6.5-linuxarm64
 docker.io/johngong/baidunetdisk:latest
 swr.cn-north-4.myhuaweicloud.com/ddn-k8s/docker.io/nyanmisaka/jellyfin:250730-amd64
+docker.io/whyour/qinglong:python3.10
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
